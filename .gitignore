@@ -6,3 +6,4 @@
 .env
 .env.local
 .env.development
+%LOCALAPPDATA%/DesktopCentral_Agent/
